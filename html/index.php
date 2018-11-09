@@ -9,7 +9,55 @@
     <title>T3</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <div class="content">
+		<h1>Projects</h1>
+
+		<div class="row">
+			<div class="project col-lg-3 card1">
+				<h5>Lorem Ipsum</h5>
+				<p>Project One</p>
+				<a href="#">View Project</a>
+			</div>
+			<div class="project col-lg-3 card2">
+				<h5>Lorem Ipsum</h5>
+				<p>Project Two</p>
+				<a href="#">View Project</a>
+			</div>
+			<div class="project col-lg-3 card3">
+				<h5>Lorem Ipsum</h5>
+				<p>Project Three</p>
+				<a href="#">View Project</a>
+			</div>
+			<div class="project col-lg-3 card4">
+				<h5>Lorem Ipsum</h5>
+				<p>Project Four</p>
+				<a href="#">View Project</a>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="project col-lg-3 card5">
+				<h5>Lorem Ipsum</h5>
+				<p>Project One</p>
+				<a href="#">View Project</a>
+			</div>
+			<div class="project col-lg-3 card6">
+				<h5>Lorem Ipsum</h5>
+				<p>Project Two</p>
+				<a href="#">View Project</a>
+			</div>
+			<div class="project col-lg-3 card7">
+				<h5>Lorem Ipsum</h5>
+				<p>Project Three</p>
+				<a href="#">View Project</a>
+			</div>
+			<div class="project col-lg-3 card8">
+				<h5>Lorem Ipsum</h5>
+				<p>Project Four</p>
+				<a href="#">View Project</a>
+			</div>
+		</div>
+	</div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
